@@ -80,7 +80,7 @@ The draft has the context but tells it from the seat of someone who walked the c
 
 Re-pitch the passage for a reader arriving cold. The tells: a present stated as a change from a before only an insider knew ("now it does X", "the new approach"); a defence of an objection the reader never raised; an opening that resumes instead of introducing; an order that follows how the conversation found things rather than what the reader needs first. Ask whether a newcomer would feel addressed, or feel he is overhearing.
 
-Example: a report opens "The switch to monthly billing fixes the backlog." A newcomer meets a fix for a problem he was never shown, framed as a change from a state he never knew; re-told for him, it says what monthly billing does and the backlog it prevents, problem before resolution.
+Example: a report opens "The switch to monthly billing fixes the backlog." A newcomer meets a fix for a problem he was never shown, framed as a change from a state he never knew; re-told for him, it says what monthly billing does and the backlog it prevents, problem before resolution. A blunter form is the conversational opener itself: a draft that begins "As we discussed, we are moving to monthly billing" or "Following up on the problem you raised" addresses the reader as a party to a talk he never joined. Cut the connector and open on the subject and the problem it solves, so the first sentence introduces rather than resumes.
 
 # How the colleague responds
 

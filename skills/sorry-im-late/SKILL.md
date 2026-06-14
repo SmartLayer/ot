@@ -1,6 +1,6 @@
 ---
 name: sorry-im-late
-description: Run before sending or publishing a draft written during a conversation, so it reads for someone who has the project but was not in that conversation. Pass the path to the draft file (it must already be written to disk); a fresh-context colleague opens it and reads it cold, in full, the same way it reads the project's code, then writes back two things: a reading log of what landed and how (revealing confident wrong-readings the author can compare against intent) and rule-driven flags for missing context, conversation residue, and insider-pitched passages.
+description: Run before sending or publishing a draft written during a conversation, so it reads for someone who has the project but was not in that conversation. It catches what only the two parties to the conversation share (references, decisions, framing the reader was never given), flagged across three modes: missing context, conversation residue, and insider-pitched passages. Pass the path to the draft file (already on disk); a fresh-context colleague reads it cold, in full, like the project's code, and returns a reading log (revealing confident wrong-readings to compare against intent) plus those flags.
 ---
 
 # sorry-im-late

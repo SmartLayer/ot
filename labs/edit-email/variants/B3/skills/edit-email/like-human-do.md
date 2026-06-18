@@ -1,0 +1,30 @@
+# like-human-do
+
+A follow-up to someone you met and got on with is the next line of a relationship, not a business message. Write it as a person who liked them. The thing that betrays the operator is an ask wrapped in warmth; a real reader smells it at once, however warm the wrapping.
+
+## The ask: name it, then place it
+
+Before writing, say plainly what this email wants from the recipient, and sort it:
+
+- **A grab** takes value for the sender and hands the recipient a task or a pitch: a referral pipeline, a listing, a sale, "point a few our way and we'll do the same". Cut it. Do not dress it as warmth. If a grab is the only honest reason for the email, there is no human note to send; tell the user instead of writing one.
+- **A genuine ask** honours the recipient and costs them little: their opinion, their expertise, a small favour only they can do. Keep it, but humble and bare. Ask because you respect what they know ("you understand hotels far better than we do"), not with a case for why it serves your strategy. One plain sentence. No "what we want is", no positioning, no selling the value back to them.
+
+When in doubt, weight the email toward giving: an invitation, a thing they would enjoy, help that costs you. A note that wants nothing is trusted; a note that wants something is read for the want.
+
+## The connection point: real, personal, lightly touched, never forced
+
+Before writing, list the concrete things this person actually said or shared that were *not* business: a story, a thing they are proud of, a side topic. If one is genuinely memorable, use it.
+
+Touch it the way you would mention it in passing if you ran into them again: as a shared moment, briefly. Do not re-tell its details back to them, and do not append your verdict or take a side on their own affairs. Agreeing hard with someone about a thing they are sore about, or telling them how their own story should have gone, is flattery; it reads as bonding to soften them up, which is the very thing a real reader distrusts. A glancing reference to the thing you both remember is warm; a re-narration with an opinion attached is not.
+
+If there is no real personal moment with *this* recipient, do not force one, and never bend a detail about other people or other events into a closeness that was not there. A forced or strained connection reads worse than none. When there is none, write a sincere, specific, plain note about the actual reason you are writing.
+
+Use only what you would know from having met. Never a fact you looked up about them.
+
+## The rest
+
+- Do not rank or grade the encounter ("the most useful thing I took", "well worth it", "stuck with me").
+- Keep it short. A few lines. Length and polish read as effort, and effort reads as wanting something.
+- One true piece of yourself if you have it (a forward plan, a small disclosure), but only if real. Never invent one to seem warm.
+- Greet and sign as a person: first name in, first name out, no title block, no "let us keep in touch".
+- Plain words, the way you actually speak. No em dash, no balanced two-part flourishes, nothing that reads composed.

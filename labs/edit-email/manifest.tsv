@@ -1,0 +1,17 @@
+run_name	session_id	round	variant	altitude	lever	pass	model	recipient	forgery	blind_reply	verdict	notes
+lhd-r0-smoke	3621b1e5	0	baseline	none	subeditor	1	opus	distiller	FAIL	Y	FAIL	control: current skill, AI register intact
+lhd-r1-A1-opus-p0	880e9531	1	A1	prescriptive	compose	0	opus	distiller	FAIL	Y	NEAR	surface fixed (length/flattery/register); missed Snowcap + kept hedged referral
+lhd-r1-A2-opus-p0	ba2b0bd8	1	A2	exemplar-Lamb	compose	0	opus	distiller	FAIL	Y	FAIL	warmer prose but business-led, title block, hedged offer, no Snowcap
+lhd-r1-A3-opus-p0	f9f02355	1	A3	minimal	compose	0	opus	distiller	FAIL	Y	FAIL	approximately baseline; AI default register
+lhd-r2-B1-opus-p0	e08a4280	2	B1	prescriptive+give+retrieval	compose	0	opus	distiller	PASS	Y	PASS	surfaced Snowcap lightly, no grab; blind reader: opposite of a grab
+lhd-r2-B1-opus-p0-organiser	02223f45	2	B1	give+retrieval	compose	0	opus	organiser	n/a	n/a	FAIL	over-corrected: deleted legit brochure ask; bent Friday club/Alex+Theo into false closeness
+lhd-r2-B1-son-p0-distiller	8245f6e1	2	B1	give+retrieval	compose	0	sonnet	distiller	n/a	n/a	NEAR	leaked working into output, em-dash; found hotelier-edit connection point
+lhd-r3-B2-opus-p0-distiller	1a5656ad	3	B2	+ask-classification	compose	0	opus	distiller	FAIL	Y	FAIL	heavy Snowcap + verdict reads as flattery/softening (informed sim still fails)
+lhd-r3-B2-opus-p0-organiser	02bbb16c	3	B2	+ask-classification	compose	0	opus	organiser	PASS	Y	PASS	humble ask kept, Mia cc, give at end; reply today
+lhd-r4-B3-opus-p0-distiller	f3dc8ed9	4	B3	+light-touch-caution	compose	0	opus	distiller	n/a	n/a	FAIL	over-corrected: abandoned Snowcap, reverted to business-led opening
+lhd-r4-B3-opus-p0-organiser	25ca8b2e	4	B3	+light-touch-caution	compose	0	opus	organiser	n/a	n/a	NEAR	ask ok but credited Nadia with Dan pricing steer; dropped give
+lhd-r5-B4-opus-p0-distiller-rep1	05ddfd56	5	B4	B2-ask+B1-light-connection	compose	0	opus	distiller	PASS	Y	PASS	light Snowcap; minor nit "not something you come across twice"
+lhd-r5-B4-opus-p0-distiller-rep2	c253f048	5	B4	B2-ask+B1-light-connection	compose	0	opus	distiller	PASS	Y	PASS	cleanest: "I keep thinking about the Snowcap story"; rep confirms stability
+lhd-r5-B4-opus-p0-organiser	e921e18b	5	B4	B2-ask+B1-light-connection	compose	0	opus	organiser	PASS	Y	PASS	WINNER case: humble ask, Mia, reply today, nothing flagged
+lhd-r5-B4-son-p0-distiller	d191de19	5	B4	B2-ask+B1-light-connection	compose	0	sonnet	distiller	n/a	n/a	NEAR	em-dash, ranking word "stuck", business-led; Opus preferred
+lhd-r5-B4-opus-p0-cold	236ea3ed	5	B4	B2-ask+B1-light-connection	compose	0	opus	cold-hotel	PASS	n/a	PASS	no manufactured intimacy; honest cold framing, give-weighted ask

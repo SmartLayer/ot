@@ -1,6 +1,6 @@
 ---
 name: quote-me
-description: Source-citation and minimum-edit workflow. Triggered when the user says "quote me". Locates the exact passage behind an AI claim, walks a challenge-and-minimum-edit cycle, then verifies the fix with a context-free subagent under explicit anti-cheat discipline.
+description: Triggered when the user says "quote me", suspecting an AI claim outran its source: quote the exact passage behind the claim, then challenge-and-minimum-edit until a context-free subagent verifies the fix.
 ---
 
 # quote-me

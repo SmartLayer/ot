@@ -1,6 +1,6 @@
 ---
 name: typst-pdf
-description: Render a markdown file to PDF via Typst, optionally applying a per-repo template discovered at .aesop/default.typ or .aesop/letterhead.typ. Trigger when the user asks to convert markdown to PDF, print a document, produce a letterhead-style PDF, or render with typst.
+description: Trigger when the user asks to convert markdown to PDF, print a document, produce a letterhead-style PDF, or render with Typst — optionally applying a per-repo template.
 argument-hint: <input.md> --out <file.pdf> [--letterhead | --no-letterhead] [--view]
 allowed-tools: Bash, Read
 ---

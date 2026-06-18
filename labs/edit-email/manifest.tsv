@@ -11,7 +11,9 @@ lhd-r3-B2-opus-p0-organiser	02bbb16c	3	B2	+ask-classification	compose	0	opus	org
 lhd-r4-B3-opus-p0-distiller	f3dc8ed9	4	B3	+light-touch-caution	compose	0	opus	distiller	n/a	n/a	FAIL	over-corrected: abandoned Snowcap, reverted to business-led opening
 lhd-r4-B3-opus-p0-organiser	25ca8b2e	4	B3	+light-touch-caution	compose	0	opus	organiser	n/a	n/a	NEAR	ask ok but credited Nadia with Dan pricing steer; dropped give
 lhd-r5-B4-opus-p0-distiller-rep1	05ddfd56	5	B4	B2-ask+B1-light-connection	compose	0	opus	distiller	PASS	Y	PASS	light Snowcap; minor nit "not something you come across twice"
-lhd-r5-B4-opus-p0-distiller-rep2	c253f048	5	B4	B2-ask+B1-light-connection	compose	0	opus	distiller	PASS	Y	PASS	cleanest: "I keep thinking about the Snowcap story"; rep confirms stability
+lhd-r5-B4-opus-p0-distiller-rep2	c253f048	5	B4	B2-ask+B1-light-connection	compose	0	opus	distiller	inferred	Y	PASS	cleanest: "I keep thinking about the Snowcap story"; rep confirms stability [forgery inferred from rep1, not separately simmed]
 lhd-r5-B4-opus-p0-organiser	e921e18b	5	B4	B2-ask+B1-light-connection	compose	0	opus	organiser	PASS	Y	PASS	WINNER case: humble ask, Mia, reply today, nothing flagged
 lhd-r5-B4-son-p0-distiller	d191de19	5	B4	B2-ask+B1-light-connection	compose	0	sonnet	distiller	n/a	n/a	NEAR	em-dash, ranking word "stuck", business-led; Opus preferred
-lhd-r5-B4-opus-p0-cold	236ea3ed	5	B4	B2-ask+B1-light-connection	compose	0	opus	cold-hotel	PASS	n/a	PASS	no manufactured intimacy; honest cold framing, give-weighted ask
+lhd-r5-B4-opus-p0-cold	236ea3ed	5	B4	B2-ask+B1-light-connection	compose	0	opus	cold-hotel	judged	n/a	PASS	no manufactured intimacy; honest cold framing, give-weighted ask [judged by lead, no blind sim run]
+lhd-final-distiller	a2008627-0b8a-4dff-84e0-8b2fd94bc89d	final	B4-shipped	prescriptive	compose+subeditor	1	opus	distiller	judged	n/a	PASS	real committed skill end-to-end; subeditor cut a residual my-takeaway clause; Snowcap left out as a sore point
+lhd-final-organiser	222cc551-a220-4228-a37d-f60c3c63317d	final	B4-shipped	prescriptive	compose+subeditor	1	opus	organiser	judged	n/a	PASS	real skill; humble ask kept, real Mia handoff, positioning paragraph dropped

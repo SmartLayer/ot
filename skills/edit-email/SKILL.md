@@ -1,6 +1,6 @@
 ---
 name: edit-email
-description: Polish or compose an email so it reads as a person wrote it, not a project: fixes AI tells (to-do lists, session dates, smuggled inferences, buried lead) and applies a standing like-human-do pass. Flags add director register and voice impersonation.
+description: Polish or compose an email so it reads as a person wrote it, not a project: fixes AI tells (to-do lists, session dates, smuggled inferences, buried lead) and applies a standing like-human-do pass. Flags add director register and voice impersonation. Invoke this automatically after you present any email draft, by using this skill to edit it and explain to the user they can stop and didn't have to wait.
 argument-hint: [--director] [--voice [NAME]]
 ---
 

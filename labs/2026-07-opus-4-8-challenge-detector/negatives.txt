@@ -1,0 +1,200 @@
+So the conclusion survives, the reasoning I offered did not, and I should not have dismissed the problem to reach it.
+My #115 commit **broadened the arm condition** from `if {$WorkerCostCapUsd > 0}` to `if {$WorkerCostCapUsd > 0 || $StallTimeoutMs > 0}`.
+Skål SEQ Combined Clubs Lunch at The Star** — 19 Jun 2026, 12:00–15:00, The Star Gold Coast (Isoletto), Broadbeach — `goldcoast.
+MCP-Airflow-API` (call518) both wrap the REST API as MCP tools, and triggering DAGs over `POST /dags/{dag_id}/dagRuns` is a long-standing borrowed pattern.
+If the profile rides back in the JSON, a killed Claude-P leaves nothing useful — you can no longer kill the harness and keep the work.
+To use one you author and run a flow; the control plane does not call a block standalone.
+So the empty-body-fetch line I'd already added covered this case; no new hardening was needed.
+For your account those are nearly the same length, so "short by ID" only buys you something in the opaque-resid case.
+Say the word if you want me to reopen that decision in `DESIGN.
+I attempt the reconciliation: take the OOP refactor as the base and re-apply the Orcal rename and general-questions feature on top, then resume the cleanup (rebase onto upstream, README split) and only then force-push.
+That is the **true API-equivalent dollar value** of the tokens consumed — it reads the raw JSONL token usage and is wholly independent of whatever "book value" the SPAR harness self-reported and capped.
+TCL is not meaningfully slower for this, and questlog can additionally use a thread pool (the cost workers in config.
+Computer vision reads it: a **Rawley Country business card** (Sarah Morris, Owner/Director).
+When we measure, the metric that matters is cascading/full-tool spawns, not the flat file count — the 270 was cascade, not 270 honest fetches.
+The credit-limit branch is the one place where recovery logic — wait, then loop, then rebuild — is still embedded in the mechanical layer.
+Authorization noted: send from director@ once done, keeping both tables — (1) the 4-week weekly token table and (2) a since-Sunday-midnight summary (total tokens, profiles produced, average cost per profile).
+What's unverified is the extension glue: injection + `onMessage`.
+I expected to find ~270 subagent files and found none; that gap is about where this harness stores FleetView agent transcripts (questlog evidently counts them from somewhere else), not a contradiction of the finding.
+Last night by model: **Opus $151** (the coding: `bi-pwa`, the spar-harness work, questlog) versus **Sonnet $135** (essentially all the campaign).
+This also gives one curl|jq idiom across majordomo and Evolution's WhatsApp REST, which is the convergence DATA-MODEL.
+That is itself a finding: upstream's own `f30416a "cmd line refactoring"` advanced past where the fork branched and touched `.
+The harness analogue is to skip the `claude` exec (which is what writes the profile) and report done.
+The `web` commits are written against the old monolith and an `app.
+The cache copy ignores uncommitted changes — it sat at the Jun-24 commit `2c3c893` the whole time despite your live WIP in the tree.
+But that may be this host's network choking on YouTube rather than yt-dlp itself — curl stalled at 20s and WebFetch took 631s in the run from this same machine.
+StackStorm** — event-driven automation for ops, with Python "packs" and actions, which is the real "accessor written in Python" model.
+The gap survives only on the no-serialiser raw-chromium fallback.
+Its instruction here is literal: you pointed me at a note that sits in the folder in my hands, and the failure it describes is answering fluently while never opening it.
+For your own use, "Load unpacked" is the whole story — no store, no fee, no review.
+Overlay-only now: no popup, no action, no permissions — just the content script that injects the bar.
+If this is the date, it *should* have appeared, and reason #1 is why it didn't.
+On it — the remaining pre-BI-less work is the **second front door (MCP over the same cache core)** and verifying the installed console script.
+Applying the body pass — Problem, Capabilities, Architecture/Core, gchat-cli, the present-reporter note, and the decided bullet — all to the dual-path (BI fast path, standalone fallback) model.
+Bárbara Quiñones Vergara), presumably because she is the one seen sending from that shared inbox in the email corpus.
+First/Last name | 100% | none (lost whenever `human_id` is NULL) | `human.
+I also deferred the plan's optional step (routing the rc==3 finalise through the same wrapper) — it works today and adds blast radius for no current need.
+Short URL:** if the bar shows "Short URL unavailable (API …)", send me the status code; it means the same-origin `_api` call needs an adjustment for how your session is framed.
+Decisions recorded: $30/worker cap for the control, and kill george.
+Re-OCR everything with `spa+eng` and orientation detection, then use the Read tool (computer vision) on the one image that yields no text.
+Putting any single figure into a marketing email without you choosing the scope would either understate the cost six-fold or blindside you with $33.
+Accept the exclusion** (correct per SPAR-P) — leave the roster row as the record, no profile file.
+Importing an MCP server with an un-bypassable trust gate into crude would dilute the thin-documented-API-client identity that the Deputy plan deliberately defended.
+Whether that envelope figure rolls in subagent spend is the CLI's behaviour, which I did not verify; the spar authors evidently distrusted it, because they built a second meter.
+It exposes tools including `launch_run` to start a job, plus monitoring and debugging.
+I couldn't find for last night — it lives in `/var/local/log/spar/`, not the campaign dir).
+Committed as `cf251ae` with the Session-Id trailer, 16 files, all tests green.
+On the convention: yes, `a-b` is correct, for the distribution name.
+The CUL is global, monthly, cross-worker; `rw_poll` structurally cannot see it.
+It earns its place only if you run multiple dispatchers or want a worker to self-claim before the harness tracks it.
+That `vwait` only returns when every enqueued row reaches a terminal state.
+I have not touched the `-- Plugin: email` comment on `email_address` despite agreeing it reads as core.
+A deny rule `Agent(general-purpose)` blocks spawning a general-purpose research agent while still allowing `Agent(Explore)` or a named custom type.
+Important catch: the line numbers here are shifted +7 from my earlier read — the worktree is at commit `11ec742`, several commits past the `0bae1e1` state I originally read.
+Every other interruption-recovery in this file lives in the `ProfileHarness` subclass and is chosen by return code: rc==3 routes to `do_finalise_after_cost_kill` (spar-harness.
+On "web takes advantage of new work without rebasing or merging.
+Tools` honoured under bypass (`--allowedTools` is the one that goes no-op).
+Whichever you pick, check the PyPI and deb namespaces before committing, since that name becomes the package and the `~/.
+Merging the branch to `main` (fast-forward, since it's a linear descendant), then updating the issues.
+I should not guess at, so let me read the local package lists rather than assert from memory.
+I also can't split these by which subscription account they ran on; the transcripts don't record that.
+The first eight are derived facts I'm confident in; the last two are scope calls that are yours to make.
+The problem → Task reconstruction**: reconstruction reframed as work the BI platform already does server-side (`coord_tasks` over a `googlechat` mirror); majordomo reports over it when present, decodes itself when standalone.
+Verdict:** a missed case adjacent to a fix the originating session deliberately made — it hardened the timer's variable read and considered the timer done, not seeing the object-teardown sibling.
+So gchat-cli is a general Google Chat client; your tool is a task-majordomo.
+And each contact carries a hard cost cap in the process, so the per-contact number stays predictable and will not balloon on an awkward profile.
+JSONL it reads — that is the true API-equivalent, independent of the SPAR harness's cost-cap "book value.
+If two of them are "No email address," that assumption is wrong, and nothing at the count level corrects it.
+The run that surfaced it was `--jobs=8` *after* my merge, but the report itself notes visibility depends on tick-vs-teardown timing and job count, not on the stall code.
+The receipts cluster around Oct–Nov 2025 (and Sep 2025 for the Australian ones), so most look like reimbursement/tax material rather than anything dated 2026.
+The dispatcher's profile-missing check needs to learn to skip rows with `date_excluded` set.
+Sunday morning (09:40–11:36), then the whole-house wedding profiles begin at **14:24**.
+The fork's README is nearly identical to upstream: only **5 inserted lines**.
+Forking gchat-cli rebuilds what crude already industrialises, on a second auth/config/packaging stack, from an unmaintained one-author base.
+The reset estimate also slid later (3h52m → 3h30m), which a rolling window does.
+CHECK (discovered_at > 0 AND discovered_at < 4102444800)` and the same bounds on `connected_at` when not null.
+Overnight, the 40 meter points (57→97) corresponded to $287 of API-equivalent work.
+The research fills the note's gap and, as it turns out, reinforces the note rather than reopening it.
+The partials are mostly usable (business cards, a feed-quantity worksheet, an equestrian-show poster).
+Happy to rerun this on a sample of your own list, or to break it down by segment, if that would help the planning.
+Chrome-for-Testing route again, or a native (non-snap) chromium on your side.
+I put the scaling in a single prose sentence ("a list of 1,000 sits around $5,400") rather than a table; for a budgeting audience a table is easier to read off, so here it is.
+The `_api` lookup that produces the short URL is the exact call I verified earlier, unchanged.
+That gives profiling's quota weight directly in points, no dollars involved, and settles the Opus-weighting uncertainty.
+Want me to pull what `b4b4dd16` and the bi-pwa session were actually doing for 11 hours, to confirm they were genuine work and not a runaway loop?
+Let gchat-cli, or a fork of it, be the accessor, consumed through its JSON CLI, which is the "skill calls a CLI" pattern you already prefer over MCP.
+Validating the matrix by count-reduction is moot when the baseline is already 1–4 subagents and ~$3.
+That fetch **hung for 631 seconds** (it eventually returned only YouTube's footer nav junk).
+The first three limits are per-worker; the harness can meter them because it owns the worker.
+NSWP now has type 3 "phantom-problem fallback"; the meta-rule reverted; over-fallback gone from DDL), and the I3 plan is complete with source-selection resolved to provenance-tagged auto-fallback.
+Permit the bounded, non-cascading spawns (Explore, a skill's single internal subagent, WebFetch's haiku); block the full-tool spawn that can recurse.
+A famous podcaster's network surfaces dozens of guests/founders, each of which would spawn a *full recursive P-profiler*.
+That was a frequency tally, not what you're asking for: it did not record per-tool provenance, did not render a legitimate/not verdict per tool, and covered only media-creator rather than every project dir profile builders have run under.
+That's the one piece I can verify empirically right now, and it would tell us whether DOM-scraping is even on the table as a fallback.
+The design-correct home for the CUL is a shared ledger the skill consults before it searches, the same shape as `CostLog` but campaign-global, so the cap is the real 300/month and not a per-contact number chosen to approximate it.
+If it's just for you, publishing is avoidable; if you want it on several of your devices without loading unpacked on each, an **unlisted** store listing is the usual route — still your account, still the $5.
+The correction I owe you: last turn I said a resumed `-p` session "does not inherit the prior turn's working context.
+Still genuinely open in the spec, untouched by this pass: delivery (query CLI vs REST daemon), whether to fork gchat-cli for the standalone path (pending the pagination check), the automatic-processing shape, and the packaging skeleton.
+The names that match what people expect to type are the names that misdescribe what the thing does.
+OAuth client credentials you download from Google Cloud Console.
+That needs a tiny `[me]` block, not a credential-keyed multi-account scheme.
+Plan rewritten around the corrected target (`null`/full-tool research spawns and the `deep-research` skill, not `general-purpose`).
+The deliverable on disk is the source of truth, not the envelope" is the verdict rule that makes any recovery safe to attempt.
+CLI (primary) and MCP (secondary) are thin; all behaviour lives in one importable core.
+Take the timezone from parentheses if present, else default Australia/Brisbane.
+The quota burners are the **long Opus multi-agent sessions** (deep-research fan-outs like the Jun 1 linkedin run, and Opus coding), not the profiling campaign.
+Which of these do you want me to carry out, and on the state rename, do the CLI flags move with the token or stay as they are?
+So as it runs today, `worker_cost_usd` meters the parent file only; its subagent branch is inert.
+Move the profile into the JSON channel and a kill leaves nothing on disk, so you're forced back to *resuming* the looping session — the exact thing the economics comment said not to do.
+CLI tool only, nothing about the web) as the agreed-plan-plus-discussion summary, and push.
+The run is at 63/72 and finishing; next checkpoint (~17:48) should show it complete or near it.
+Multi-account drops from the invariants to a possible-later capability (this also revises DESIGN.
+The fix is a design choice for the refactor: expose a credentials API keyed by identity, which is exactly mailroom's `[imap.
+So my first answer was firemaning, exactly what `webworks/README.
+Decisive: the guy-raz research subagent did everything **inline** — 23 WebSearch + 6 WebFetch, and spawned **zero** of its own subagents (no Agent/Workflow calls, no nested tree).
+The "lawsuit" headlines are false — no suit filed as of June 2026.
+I flagged last turn has already been acted on (MCP demoted to an escalation, which matches the Evolution assessment's "skill is the bridge, MCP only for the two hard bits").
+So a research agent running this SOP has no interest line that would make it search for, recognise, or keep a Tamborine chamber meeting — even if it walked past one, it'd be filtered out as off-list.
+The hook wants chained operations, fair — I was about to fire a lone search.
+To answer your question directly: I picked it up from `~/code/aesop/webworks/README.
+Branch from the refactored `master`, rebuild the Flask and bot layer to call the core, and port the salvageable logic from the archived `web` branch by hand.
+Does the internal accounting capture all subagent expenditure?
+SPAR workers are both separate session files *and* recorded as sidechains, the tokens could be summed twice and inflate the total).
+PreToolUse hook (if hooks still fire under skip-permissions) plus the agent-type toolset restriction (lever 2), which is an agent-definition constraint rather than a permission and may hold regardless.
+I traced W3's spike to its source and verified the windowing is correct.
+If the worry is a changed limit rather than a heavy week, that is a question for the usage page or support, and I would not guess at it.
+So "fold chat into mailroom and inherit uniform caching" buys nothing: there is no shared cache substrate to share.
+Forward test running** on a fresh heavy target to check the worker isn't handcuffed (adapts to Explore/inline when its full-tool spawn is denied) and completes.
+This *reinforces* the mirror-not-derive invariant — majordomo never writes the BI DB, and soon the DB itself will forbid it.
+A subagent doing heavy LinkedIn/Facebook fetching is an `Agent` spawn, and Agent spawns can be blocked (by tool, by subagent_type, or by a hook).
+The extension work itself is complete and verified — but I should have asked before copying live credentials into another browser.
+The **only** remaining modified upstream-tracked file is `README.
+In the desktop app the path had to come from Graph because there was no rendered page.
+The transcript ends abruptly at 10:23:56 on a WebFetch tool_result — no final assistant turn, no profile Write.
+Every capability works without the BI backend, via live read + own decoder.
+So the real question is not "can you replay" but "what does the core promise.
+That is itself a cascade (and a likely contributor to the original 270, since a famous target surfaces many names).
+The snapshot table earns its place on the versioning requirement alone.
+Task reconstruction needs every message in a date window across all spaces.
+So I will read your task-fetching code and your own limitations note first, then research n8n against that.
+And the reframe makes a finding from the last turn load-bearing: **the dollar proxy is distorted across model mixes, in a direction that favours profiling.
+That covers the search-and-profile stage: locating the person or organisation, gathering what is public about them, and writing the dossier the outreach is built on.
+So running the LinkedIn skill needs no subagent at all; it is a `Skill` + `Bash` call that survives any `Agent` deny.
+The other ~21 points that night were coding/research on Opus ($151).
+The 3 live profiling jobs (3 `timeout` + 3 `claude`, 6 PIDs) are still burning Sonnet credits and writing profiles.
+CLI-vs-daemon delivery decision), and the "third option" you're naming is not wholly new — half of it is the daemon question DATA-MODEL.
+Evolution-style REST option) and I should weigh against the current state, not my memory of it.
+When I retrieve by keyword, I grab the untethered thing, because the tether is the expensive part: the solution is recalled, the problem must be *evaluated* against the situation in front of me.
+Verifying it now and running the personal filters against live data.
+My pick is **Envoy**: it states the accessor-acting-on-your-behalf idea, drops the "engine" overclaim, and sits well beside majordomo (steward, envoy — same household-of-agents metaphor).
+Before advising I want to (a) see every field the export actually carries, and (b) read the design docs so my advice fits the schema's existing philosophy rather than inventing one.
+While you were awake the run delivered ~3 profiles/hour against the same kind of competition; overnight it ran at ~0.
+On the wedding clash: still open, and not answerable by curl (the venue lists no public bookings).
+DB): a versioned, append-only capture keyed to `profile_id`, with `raw_name`, `headline`, `company`, `title`, `location`, `industry`, `summary`, and a `UNIQUE (profile_id, source, captured_at)` so re-importing the same export is idempotent.
+The robust shape is both layers: the hook as the deterministic gate where the plugin exists, **and** a prompt line in `spar-p.
+So the one place this event would be published is the one place the SOP-driven scan is locked out of.
+The MCP server is read-only diagnostics; the CLI skill triggers deployments and manages runs.
+Folding everything into crude pays with crude's simplicity and uniform identity.
+No `id_token` in the token (so no offline JWT trick here), but two better leads: token.
+It applies squarely, because you caught exactly the failure it describes: I grasped the first meaning ("not a data pipeline, therefore dismiss") instead of reading your problem.
+I can't see or change your permission-mode setting from here, so if a prompt is still surfacing despite bypass being on, that's a harness/subagent interaction rather than something I requested.
+The commit is local to `~/code/ot`; it works on this host because the cache refreshed from local git.
+You're right that the cache framing is wrong, and since `DATA-MODEL.
+Overnight you were near 97% weekly, so each 5h window had nothing to refill with and every cap was fatal.
+A cost kill prices the worker before SIGTERM and would have left cost entries; a stall kill doesn't.
+Auth is user OAuth, not service account** — and the README says a service account was *tried and rejected* because it couldn't read this workspace's messages or DMs without per-space admin grants.
+Before resetting the baseline, let me look at what the killed reruns actually wrote (don't delete blind).
+That makes majordomo a reader/reporter/gate over the existing stack — which contradicts several sections as currently written (the "owned by majordomo" cache, the "majordomo owns the sync" Delivery framing, reconstruction as core value).
+Claude spend across everything** — coding (bi-pwa, questlog), the marathon linkedin research run, other clients' campaigns, personal tooling — and profiling is a small slice of them.
+Searching first — if the next meeting isn't publicly announced, there's nothing for the method to find and the test would be meaningless.
+The smell" is the right instinct, and it points at a category error in my own framing, not a boundary problem.
+Per agent, cache-read tokens run **440–920 million**, against only ~130k output and ~1M cache-write.
+The cdp-centralisation memory describes a since-replaced architecture in full — deleting it (forward-only; the serialised-browsing skill's own docs are the live reference now).
+You guessed a generic orchestrator-to-MCP/cmd bridge probably exists.
+JSON groups by folder; each session has `cost_usd`, `first_ts`, and a `subagents` array.
+At the empty-parse point, capture the diagnostics that are currently thrown away (stderr tail, last stream event type, exit code) — that is #133, and it rides along because the refactor is already rewriting exactly that branch.
+Skill(deep-research)` at the parent is near-cosmetic (0 parent uses; all 747 deep-research calls are *inside* spawned general-purpose subagents).
+A harness dry-run has two reasonable meanings, and the fix depends on which you want.
+Relaunching the diagnostic — now using the serialised-browsing skill instead of the dead wrapper, with the webworks diagnostic procedure verbatim.
+CLI and applying the AI-decidable rules per message, with Airflow/Prefect/Dagster relevant only if some sub-flows turn out to be high-volume and fixed enough to deserve a DAG.
+That was too strong, and the finalise prompt is the counter-evidence sitting in the repo.
+Your last Skål event was the 113th Skål Australia National Assembly & AGM — on the Gold Coast, not Brisbane — Fri 13 to Sun 15 March 2026.
+If this is the date, the SOP *correctly* excludes it ("only include events that haven't already passed").
+July*, 16 Jul 2026, 18:00, The Manor, Tamborine Mountain — published on the chamber's Facebook Events tab and its embedded Humanitix calendar (`bctm-events`), though absent from the website's `/events/` page and plain Google search.
+Imágenes/INBOX` now holds 47 files dated 2026 (44 remaining in the staging set, the difference being the video, the two Epson duplicates, and these three).
+Restricting to *overnight-born* sessions correctly captures the SPAR campaign (its workers are short-lived, born and dead overnight), but it **drops coding done last night inside sessions that were opened earlier and merely resumed**.
+A 403 is a server saying "no" to *that request* — transient Cloudflare challenge, or a different UA than the one that works — not a property of the site.
+That's a real datapoint worth recording on #115 (watchdog confirmed working as designed; the new wrinkle is the kill landing before the profile write, and the sub-600s-fetch-timeout question).
+AI-judgment-processes paragraph) because it's load-bearing for "agents driving the CLI, not a static workflow graph", and added `thread` to the subcommand list (the colleague's list had missed it).
+So going "through apt" on Ubuntu lands you right back on the snap.
+Identities the cache doesn't cover can only use the live path.
+The campaign that actually processes profiles is its own directory (the subscriber-mining/palaciobizcocheros campaign at $547.
+Each new one has been bolted to its own site, which is why #142 lives trapped in the base loop while the cost cap lives in the watchdog and the CUL will, if patched as proposed, live in skill prose.
+No email in any of your mailboxes carries this one — not as a confirmation, a code, or an attachment.
+The gitStatus I was handed at session start shows commits about "Raven" and "Tachy", which do not match this project, so I especially should not trust my assumptions here.
+Both changes coexist (main's allow-list with SendMessage/build-dossier, plus my ProfileHarness `continuation_prompt`), 32 tests green.
+Agent(general-purpose)` (probe-proven to also catch the `null` spawn) while keeping Explore.
+The roster row already carries `date_excluded: 2026-06-02`, `star_rating: 0`.
+Ben Tossell runs Ben's Bites, his own AI newsletter (166K+ subscribers), features founder stories and AI-business use cases, reachable at ben@bensbites.
+Ready when you are to work through the whole plan, where the open items are the three residual tracked-file edits, the rebase mechanism (`--rebase-merges` vs tree reconstruction), and how the `web` branch and the new majordomo core relate.
+The canonical record is exactly `coord_tasks`: `{source_message_name (PK), space_name, assignee_user_name, assignee_display, title, created_at, status}`.

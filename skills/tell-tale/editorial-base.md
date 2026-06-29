@@ -26,6 +26,12 @@ Six rules from George Orwell's "Politics and the English Language" (1946), adopt
 
 ---
 
+## Punctuation
+
+**`W07` Em dash, LHD-strict.** Any em dash (—) forces a rewrite of its line; one is enough. Recast so dependent words sit closer together and the dash becomes unnecessary, or replace it with a comma, parentheses, a colon, or a full stop, whichever the sense calls for. Two things are not this code and are left alone: attribution after a quotation (`"Knowledge is power." — Bacon`), and the en dash (–) in a numeric range (`pages 12–18`), which is a different mark. This is stricter than the anti-pattern taxonomy's `s05`, which tolerated a lone em dash; the office LHD rule treats a single one as a defect, so em dash lives here as a forcing editorial code rather than there as a tolerated tell.
+
+---
+
 ## Dialect
 
 **`D01` The text departs from its declared target language variety.** This code is a conformance *check*, not a declaration of how many varieties a project should maintain. It flags a line whose spelling, vocabulary, or idiom drifts away from the variety the run was told to target (for example British English flagged for an American spelling, or Castilian Spanish flagged for a Latin-American term).

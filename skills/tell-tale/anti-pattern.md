@@ -244,21 +244,11 @@ Decorating section headings or bullet points with emoji.
 
 ---
 
-### s05 — Overuse of em dashes
+### s05 — Overuse of em dashes (moved to `W07`)
 
-Using em dashes (—) where commas, parentheses, or colons would be more natural. Especially formulaic when mimicking "punched up" sales-like writing.
+Em dashes are handled by the editorial base as a forcing rule, not by this taxonomy. See `W07` in `editorial-base.md`: a single em dash forces its line to be rewritten, with two exemptions (quotation attribution and the en-dash numeric range). The labeller emits `W07` for an em-dash line, never `s05`; this entry is kept only so the code number is not reused.
 
-**Rule:** If a comma or colon can replace the em dash without creating ambiguity, it should. Em dashes are reserved for cases where the parenthetical itself contains commas, making comma-delimited nesting genuinely confusing — e.g., "three contributors — Alice, Bob, and Carol — submitted patches."
-
-**Example (violation):**
-> a second contributor — Jia Tan — who had no verifiable institutional affiliation
-
-The appositive "Jia Tan" is a simple name. Commas handle it cleanly: "a second contributor, Jia Tan, who had no verifiable institutional affiliation."
-
-**Example (violation):**
-> The current revision fully complies with Wikipedia's core content policies — including WP:V, WP:RS, and WP:BLP — with all claims supported by multiple sources.
-
-**Fix:** Replace em dashes with commas, parentheses, or colons wherever they work. The only exception is when the enclosed material contains commas that would create genuine parsing ambiguity.
+The original Wikipedia description, for reference: using em dashes (—) where commas, parentheses, or colons would be more natural, especially when mimicking "punched up" sales-like writing.
 
 ---
 

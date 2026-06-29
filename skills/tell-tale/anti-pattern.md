@@ -136,11 +136,12 @@ Overuse of specific words that surged in frequency after LLM chatbots became wid
 - **2023–mid 2024 (GPT-4 era):** *Additionally, boasts, bolstered, crucial, delve, emphasizing, enduring, garner, intricate/intricacies, interplay, key, landscape, meticulous/meticulously, pivotal, underscore, tapestry, testament, valuable, vibrant*
 - **Mid 2024–mid 2025 (GPT-4o era):** *align with, bolstered, crucial, emphasizing, enhance, enduring, fostering, highlighting, pivotal, showcasing, underscore, vibrant*
 - **Mid 2025 onward (GPT-5 era):** *emphasizing, enhance, highlighting, showcasing*
+- **Vogue metaphors (business/engineering register, any era):** *anchor (as in "anchor use/event/tenant"), load-bearing, leverage, robust, seamless, unlock, enabler/enabling, driver/drives, surface (as a verb), ecosystem, cornerstone, harness (as a verb)*. These are metaphors lifted from sailing, construction, physics, or software, used where a plain word serves. A model cannot feel them as unusual because they are common in its training text, so this list is a backstop, not the primary defence. The primary defence is the say-it-aloud rewrite in the edit pass, which removes them without naming them. This list is living: add a word when it recurs in real drafts.
 
 **Example:**
 > This culinary tapestry is a direct result of Somalia's longstanding heritage of vibrant trade. Additionally, Somali merchants played a pivotal role in the global coffee trade.
 
-**Fix:** Replace with plain, precise words. Use "important" not "pivotal," "shows" not "showcasing," "complex" not "intricate."
+**Fix:** Replace with plain, precise words. Use "important" not "pivotal," "shows" not "showcasing," "complex" not "intricate." For a vogue metaphor, do not hunt for a fancier synonym; say what literally happens ("the main event", "what we depend on", "lets us", "strong").
 
 ---
 

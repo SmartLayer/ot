@@ -18,6 +18,7 @@ Rules:
 - Structural lines (headings, horizontal rules, frontmatter) get blank `.sc` lines unless the line itself violates a rule (for instance `[s01]` for a title-case heading).
 - Anti-pattern codes are lowercase; editorial codes (base and profile) are uppercase.
 - The editorial base carries reader-cost codes `W08` (nominalisation), `W09` (human-distancing), `W10` (imaginary enemy fighting an unraised objection), and `W11` (spurious precision or attention-numbers). Emit them wherever they fit; they are common in promotional or bureaucratic prose. Read their definitions before labelling.
+- Emit `g01` (anti-pattern taxonomy, "Signal words") on any line containing a signal word from that list (anchor, enabler, load-bearing, leverage, robust, seamless, unlock, driver, harness or surface as verbs, cornerstone, ecosystem, delve). It is a canary that forces the editor to re-examine the sentence; emit it even when the line is otherwise clean.
 - Apply only the codes that fit this document's register. The taxonomy's register note says which codes (citations, markup, wiki structure) rarely apply outside encyclopedic text; do not force them onto an email, a post, or a release note.
 - The D01 dialect code fires only if a target variety was given above. If the target is `(none)`, never emit D01.
 - Do NOT edit the draft. Produce the `.sc` only.

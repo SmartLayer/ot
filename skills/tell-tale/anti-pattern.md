@@ -136,12 +136,13 @@ Overuse of specific words that surged in frequency after LLM chatbots became wid
 - **2023–mid 2024 (GPT-4 era):** *Additionally, boasts, bolstered, crucial, delve, emphasizing, enduring, garner, intricate/intricacies, interplay, key, landscape, meticulous/meticulously, pivotal, underscore, tapestry, testament, valuable, vibrant*
 - **Mid 2024–mid 2025 (GPT-4o era):** *align with, bolstered, crucial, emphasizing, enhance, enduring, fostering, highlighting, pivotal, showcasing, underscore, vibrant*
 - **Mid 2025 onward (GPT-5 era):** *emphasizing, enhance, highlighting, showcasing*
-- **Vogue metaphors (business/engineering register, any era):** *anchor (as in "anchor use/event/tenant"), load-bearing, leverage, robust, seamless, unlock, enabler/enabling, driver/drives, surface (as a verb), ecosystem, cornerstone, harness (as a verb)*. These are metaphors lifted from sailing, construction, physics, or software, used where a plain word serves. A model cannot feel them as unusual because they are common in its training text, so this list is a backstop, not the primary defence. The primary defence is the say-it-aloud rewrite in the edit pass, which removes them without naming them. This list is living: add a word when it recurs in real drafts.
 
 **Example:**
 > This culinary tapestry is a direct result of Somalia's longstanding heritage of vibrant trade. Additionally, Somali merchants played a pivotal role in the global coffee trade.
 
-**Fix:** Replace with plain, precise words. Use "important" not "pivotal," "shows" not "showcasing," "complex" not "intricate." For a vogue metaphor, do not hunt for a fancier synonym; say what literally happens ("the main event", "what we depend on", "lets us", "strong").
+**Fix:** Replace with plain, precise words. Use "important" not "pivotal," "shows" not "showcasing," "complex" not "intricate."
+
+For the vogue-metaphor cluster (anchor, enabler, load-bearing, leverage, robust, seamless), see `g01` below: those are handled as canaries, not by simple replacement.
 
 ---
 
@@ -191,6 +192,20 @@ Replacing repeated references to the same thing with different synonyms each tim
 > Vierny committed to supporting **non-conformist artists** [...] these **like-minded artists** [...] the **Russian avant-garde artists** [...] the **diverse yet united front of non-conformist artists.**
 
 **Fix:** Repeat the natural term. Consistent naming is clearer than forced variation.
+
+---
+
+### g01 — Signal words (AI-speech canaries)
+
+A small set of words whose mere presence signals the sentence was probably produced in "improve" mode. A model that can speak plainly, when asked to polish, drifts toward these words, so the harder it is pushed to improve, the closer it gets to cliché and the worse the result. The word is a canary, not a banned item.
+
+The point is not to forbid the word. The point is that when one appears, you stop and re-examine the whole sentence under the high-level reader tests (the "Reader state" section of the editorial base) and the say-it-aloud rewrite in the edit pass, harder than a clean sentence would get. The sentence usually fails and is re-said; sometimes the word is a genuine literal use (a ship's anchor, physical leverage) and survives. Either way the re-examination is not optional.
+
+Why a canary and not a blocklist: a model cannot feel these words as unusual, because they are common in its training text. Telling it "do not use them" patches the named word while the AI-speech mode that produced it stays on, and the same mode reaches for the next unlisted cliché. The canary instead trips the high-level rules, which repair the sentence and the mode together.
+
+**Signal words (living list):** *anchor* (as a metaphor), *enabler/enabling*, *load-bearing*, *leverage*, *robust*, *seamless*, *unlock(s)*, *driver/drives*, *harness* (as a verb), *surface* (as a verb), *cornerstone*, *ecosystem*, *delve*. Add a word when it recurs in real drafts.
+
+**Trigger:** the label pass emits `[g01]` for any in-scope line containing a signal word. A `g01` line is always re-examined by the say-it-aloud method and the reader tests, even if it is otherwise below the edit threshold; the word is never swapped for a fancier synonym, the sentence is re-said and kept only if it then reads as speech.
 
 ---
 
